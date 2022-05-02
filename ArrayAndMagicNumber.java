@@ -19,11 +19,6 @@ public class ArrayAndMagicNumber
 			b[i] = a[i];
 		}
 		
-		for(int i=0;i<a.length;i++)
-		{
-			b[i] = a[i];
-		}
-		
 		int temp;
 		for(int i=0;i<b.length;i++)
 		{
